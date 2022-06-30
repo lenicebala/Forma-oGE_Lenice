@@ -1,7 +1,4 @@
 # FormacaoGE_Lenice 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
 
 Formacao do Grupo de Estudos de Pensamento Computacional<br>
 Grupo destinado à aprendizagem  de programação básica.
@@ -13,6 +10,10 @@ Essas instruções permitirão que você faça uma cópia do projeto em operaç�
 📋Pré-requisitos<br>
 Você precisa instalar um desses softwares:
 * Sublime, VSCode, etc.
+
+##  😄 Seja um dos contribuidores<br>
+
+Quer fazer parte desse projeto? Clique [ AQUI ](CONTRIBUTING.md) e leia como contribuir.
 
 
 📄Licença<br>
