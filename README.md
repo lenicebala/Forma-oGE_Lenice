@@ -11,5 +11,5 @@ Voccê precisa instalar um desses softwares:
 * Sublime, VSCode, etc.
 
 
-📄Licença
+📄Licença<br>
 Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
