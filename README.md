@@ -10,9 +10,6 @@ Essas instruções permitirão que você faça uma cópia do projeto em operaç�
 Voccê precisa instalar um desses softwares:
 * Sublime, VSCode, etc.
 
-Dar exemplos
-🔧Instalação
-Uma série de exemplos passo-a-passo que informa o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
 📄Licença
 Este projeto está sob a licença (sua licença) - veja o arquivo LICENSE.md para detalhes.
