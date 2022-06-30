@@ -1,4 +1,7 @@
 # FormacaoGE_Lenice 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 Formacao do Grupo de Estudos de Pensamento Computacional<br>
 Grupo destinado à aprendizagem  de programação básica.
