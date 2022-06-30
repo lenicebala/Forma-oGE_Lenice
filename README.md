@@ -7,7 +7,7 @@ Essas instruções permitirão que você faça uma cópia do projeto em operaç�
 
 
 📋Pré-requisitos<br>
-Voccê precisa instalar um desses softwares:
+Você precisa instalar um desses softwares:
 * Sublime, VSCode, etc.
 
 
