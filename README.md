@@ -6,7 +6,7 @@ Grupo destinado à aprendizagem  de programação básica.
 Essas instruções permitirão que você faça uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 
-📋Pré-requisitos
+📋Pré-requisitos<br>
 Voccê precisa instalar um desses softwares:
 * Sublime, VSCode, etc.
 
